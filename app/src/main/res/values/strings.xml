@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestSMS</string>
+    <string name="sms_permissions_rationale">I need the perms yo.</string>
+</resources>
